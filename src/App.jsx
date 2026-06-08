@@ -31,6 +31,7 @@ const INITIAL_TRACKS = {
     { id: 'dr1', name: 'Operation Crysis', url: './audio/Iframe Operation Crisis [JgARoq3-Zo4].mp3', selected: true },
     { id: 'dr2', name: 'Impossible Decision', url: './audio/Iframe Impossible Decision [tRZz2jGpTiE].mp3', selected: true },
     { id: 'dr3', name: 'Fractured Reality', url: './audio/Iframe Fractured Reality [hs0-vF0Ijsw].mp3', selected: true },
+    { id: 'dr4', name: '2026draft music', url: './audio/2026draftmusic.mp3', selected: true },
   ],
 };
 
