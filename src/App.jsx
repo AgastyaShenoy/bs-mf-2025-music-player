@@ -7,6 +7,7 @@ const INITIAL_TRACKS = {
     { id: 'g2', name: 'Pre Game', url: './audio/Iframe Pregame [u8vaSkiwKfw].mp3', selected: true },
     { id: 'g3', name: 'Army Strong', url: './audio/Iframe Army Strong [WHutEizB5B4].mp3', selected: true },
     { id: 'g4', name: 'Jiggy Wit It', url: './audio/Iframe Jiggy Wit It [AsFs1rtDTt8].mp3', selected: true },
+    { id: 'g5', name: '2026 Game Win or Generic Music', url: './audio/2026gamewinorgenericmusic.mp3', selected: true },
   ],
   set: [
     { id: 's1', name: 'Bull Rush', url: './audio/Iframe Bull Rush [9HBFLAR2fuw].mp3', selected: true },
@@ -21,17 +22,21 @@ const INITIAL_TRACKS = {
     { id: 'm4', name: 'NYPD Undercover', url: './audio/Iframe NYPD Undercover [jY9McktM0Qs].mp3', selected: true },
     { id: 'm5', name: 'Entrapment', url: './audio/Iframe Entrapment [nS5UZRUet4c].mp3', selected: true },
     { id: 'm6', name: 'Kick Six', url: './audio/Iframe Kick Six [YDVTXLxMggA].mp3', selected: true },
+    { id: 'm7', name: '2026 Match Win Music', url: './audio/2026matchwinmusic.mp3', selected: true },
   ],
   generic: [
     { id: 'gen1', name: 'Design of the time', url: './audio/Iframe Design Of The Times [Ix32qfWyrDM].mp3', selected: true },
     { id: 'gen2', name: 'Push the Envelope', url: './audio/Soundloaders.app - Push The Envelope - Instrumental - Clerkenwell Sound Collective.mp3', selected: true },
     { id: 'gen3', name: 'The Bombay', url: './audio/Iframe The Bombay [_BVEtTv-pd4].mp3', selected: true },
+    { id: 'gen4', name: '2026 Generic Music Brawl Cup', url: './audio/2026genericmusicbrawlcup.mp3', selected: true },
+    { id: 'gen5', name: '2026 Game Win or Generic Music', url: './audio/2026gamewinorgenericmusic.mp3', selected: true },
   ],
   draft: [
     { id: 'dr1', name: 'Operation Crysis', url: './audio/Iframe Operation Crisis [JgARoq3-Zo4].mp3', selected: true },
     { id: 'dr2', name: 'Impossible Decision', url: './audio/Iframe Impossible Decision [tRZz2jGpTiE].mp3', selected: true },
     { id: 'dr3', name: 'Fractured Reality', url: './audio/Iframe Fractured Reality [hs0-vF0Ijsw].mp3', selected: true },
     { id: 'dr4', name: '2026draft music', url: './audio/2026draftmusic.mp3', selected: true },
+    { id: 'dr5', name: '2026 Draft Music 2', url: './audio/2026draftmusic2.mp3', selected: true },
   ],
 };
 
